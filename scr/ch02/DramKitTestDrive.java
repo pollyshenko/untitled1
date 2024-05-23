@@ -8,12 +8,13 @@ public class DramKitTestDrive {
         d.playSnare();
 
         d.snare = false;
+        d.playTopHat();
 
         if(d.snare == true){
             d.playSnare();
         }
 
-        d.playTopHat();
+        //d.playTopHat();
 
     }
 }
