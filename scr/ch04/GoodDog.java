@@ -5,9 +5,8 @@ public class GoodDog {
     public int getSize(){
         return size;
     }
-    public int setSize(int s){
+    public void setSize(int s){
         size = s;
-        return s;
     }
     void bark(){
         if(size > 60){
