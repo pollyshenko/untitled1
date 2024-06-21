@@ -7,7 +7,7 @@ public class calcAreaM {
     }
 
     int a = calcArea(7,12);
-    short c = 7;
+   /* short c = 7;
     calcArea(2,3);
     int d = calcArea(57);
     long t = 42;
@@ -16,6 +16,8 @@ public class calcAreaM {
     calcArea();
     byte h = calcArea(4,20);
     int j = calcArea(2,3,5);
+
+    */
 
 
 }
